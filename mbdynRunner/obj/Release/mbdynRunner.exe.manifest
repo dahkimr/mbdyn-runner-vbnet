@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="mbdynRunner.exe" size="15888">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="mbdynRunner.exe" size="16400">
       <assemblyIdentity name="mbdynRunner" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>a6lX8wr9SV8Djccwnl6EtBSsF5HF6u0eGN4dFeA3Gac=</dsig:DigestValue>
+        <dsig:DigestValue>w1MXeW44/KD4kg6aCTZpLTBhIz0wTcBZgRGwjw3YW+o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

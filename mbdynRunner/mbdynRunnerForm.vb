@@ -1,9 +1,9 @@
 ﻿Public Class mbdynRunnerForm
 
     Private inputFile = ""
-    Private errorCaption = "Error"
-    Private inputFileMissingError = "Please select an input file."
-    Private inputFileWrongExtError = "Input file should have extension .mbd"
+    Private ReadOnly errorCaption = "Error"
+    Private ReadOnly inputFileMissingError = "Please select an input file."
+    Private ReadOnly inputFileWrongExtError = "Input file should have extension .mbd"
 
     Private Sub RunBtn_Click(sender As Object, e As EventArgs) Handles RunBtn.Click
         Dim pHelp As New ProcessStartInfo
@@ -14,6 +14,11 @@
         If inputFile = "" Then
             Dim result = MessageBox.Show(inputFileMissingError, errorCaption,
                 MessageBoxButtons.OK, MessageBoxIcon.Error)
+
+        ElseIf inputFile.Length < 3 Or inputFile.SubString(inputFile.Length - 3) <> "mbd" Then
+            Dim result = MessageBox.Show(inputFileWrongExtError, errorCaption,
+                MessageBoxButtons.OK, MessageBoxIcon.Error)
+
         Else
             Try
                 Dim proc As Process = Process.Start(pHelp)
@@ -28,7 +33,6 @@
                 End If
             End Try
         End If
-
 
     End Sub
 
