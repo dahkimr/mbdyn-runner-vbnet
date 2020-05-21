@@ -1,0 +1,16 @@
+C:\Users\user\visual_basic_net_projects\mbdynRunner\mbdynRunner\bin\Debug\mbdynRunner.exe.config
+C:\Users\user\visual_basic_net_projects\mbdynRunner\mbdynRunner\bin\Debug\mbdynRunner.exe
+C:\Users\user\visual_basic_net_projects\mbdynRunner\mbdynRunner\bin\Debug\mbdynRunner.pdb
+C:\Users\user\visual_basic_net_projects\mbdynRunner\mbdynRunner\bin\Debug\mbdynRunner.xml
+C:\Users\user\visual_basic_net_projects\mbdynRunner\mbdynRunner\obj\Debug\mbdynRunner.vbprojAssemblyReference.cache
+C:\Users\user\visual_basic_net_projects\mbdynRunner\mbdynRunner\obj\Debug\mbdynRunner.Resources.resources
+C:\Users\user\visual_basic_net_projects\mbdynRunner\mbdynRunner\obj\Debug\mbdynRunner.vbproj.GenerateResource.cache
+C:\Users\user\visual_basic_net_projects\mbdynRunner\mbdynRunner\obj\Debug\mbdynRunner.vbproj.CoreCompileInputs.cache
+C:\Users\user\visual_basic_net_projects\mbdynRunner\mbdynRunner\obj\Debug\mbdynRunner.exe
+C:\Users\user\visual_basic_net_projects\mbdynRunner\mbdynRunner\obj\Debug\mbdynRunner.xml
+C:\Users\user\visual_basic_net_projects\mbdynRunner\mbdynRunner\obj\Debug\mbdynRunner.pdb
+C:\Users\user\visual_basic_net_projects\mbdynRunner\mbdynRunner\obj\Debug\mbdynRunner.mbdynRunnerForm.resources
+C:\Users\user\visual_basic_net_projects\mbdynRunner\mbdynRunner\bin\Debug\mbdynRunner.exe.manifest
+C:\Users\user\visual_basic_net_projects\mbdynRunner\mbdynRunner\bin\Debug\mbdynRunner.application
+C:\Users\user\visual_basic_net_projects\mbdynRunner\mbdynRunner\obj\Debug\mbdynRunner.exe.manifest
+C:\Users\user\visual_basic_net_projects\mbdynRunner\mbdynRunner\obj\Debug\mbdynRunner.application
