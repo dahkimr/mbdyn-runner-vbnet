@@ -22,7 +22,6 @@
         Else
             Try
                 Dim proc As Process = Process.Start(pHelp)
-                Close()
             Catch ex As Exception
                 Dim errorMessage = ex.Message + " (make sure mbdyn.exe is in the folder)"
 
