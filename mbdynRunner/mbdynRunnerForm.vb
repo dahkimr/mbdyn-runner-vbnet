@@ -6,10 +6,6 @@
     Private ReadOnly inputFileWrongExtError = "Input file should have extension .mbd"
 
     Private Sub RunBtn_Click(sender As Object, e As EventArgs) Handles RunBtn.Click
-        Dim pHelp As New ProcessStartInfo
-        pHelp.FileName = "mbdyn.exe"
-        pHelp.Arguments = "-f " + inputFile
-        pHelp.UseShellExecute = ProcessWindowStyle.Normal
 
         If inputFile = "" Then
             Dim result = MessageBox.Show(inputFileMissingError, errorCaption,
@@ -21,7 +17,8 @@
 
         Else
             Try
-                Dim proc As Process = Process.Start(pHelp)
+                Dim mbdynCmd = "mbdyn.exe -f " + inputFile
+                Dim proc As Process = Process.Start("cmd", "/k " + mbdynCmd)
             Catch ex As Exception
                 Dim errorMessage = ex.Message + " (make sure mbdyn.exe is in the folder)"
 
