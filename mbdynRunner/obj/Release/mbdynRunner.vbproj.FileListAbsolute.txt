@@ -20,7 +20,6 @@ C:\Users\user\dahkimr\mbdynRunner\mbdynRunner\bin\Release\mbdynRunner.applicatio
 C:\Users\user\dahkimr\mbdynRunner\mbdynRunner\bin\Release\mbdynRunner.exe
 C:\Users\user\dahkimr\mbdynRunner\mbdynRunner\bin\Release\mbdynRunner.pdb
 C:\Users\user\dahkimr\mbdynRunner\mbdynRunner\bin\Release\mbdynRunner.xml
-C:\Users\user\dahkimr\mbdynRunner\mbdynRunner\obj\Release\mbdynRunner.vbprojAssemblyReference.cache
 C:\Users\user\dahkimr\mbdynRunner\mbdynRunner\obj\Release\mbdynRunner.mbdynRunnerForm.resources
 C:\Users\user\dahkimr\mbdynRunner\mbdynRunner\obj\Release\mbdynRunner.Resources.resources
 C:\Users\user\dahkimr\mbdynRunner\mbdynRunner\obj\Release\mbdynRunner.vbproj.GenerateResource.cache
